@@ -1,0 +1,6 @@
+name: BestX1
+main: me.caique.x1.Core
+version: 1.0
+commands:
+  duelo:
+    aliases: [x1]
